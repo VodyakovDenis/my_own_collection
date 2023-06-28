@@ -2,4 +2,4 @@
 - name: MY Test
   hosts: localhost
   roles:
-    - role: netology.yandex_cloud_elk.my_own_module
+    - role: my_own_namespace.yandex_cloud_elk.my_module_role
