@@ -1,0 +1,4 @@
+---
+# defaults file for roles/my_module_role
+"path": "/tmp/test_module.txt"
+"content": "Module is work!"
